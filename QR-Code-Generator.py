@@ -1,5 +1,5 @@
-#First install 
-#pip install qrcode[pil]
+# Install qrcode if not installed
+# pip install qrcode[pil]
 
 import qrcode
 
