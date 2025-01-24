@@ -1,4 +1,4 @@
-# First install pytube
+# Install pytube if not installed
 # pip install pytube
 
 from pytube import Playlist
