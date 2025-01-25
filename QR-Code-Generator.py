@@ -1,4 +1,4 @@
-# Install qrcode if not installed
+# Install qrcode module if not installed
 # pip install qrcode[pil]
 
 import qrcode
