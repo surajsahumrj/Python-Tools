@@ -1,4 +1,4 @@
-# Install pytube if not installed
+# Install pytube module if not installed
 # pip install pytube
 
 from pytube import YouTube
