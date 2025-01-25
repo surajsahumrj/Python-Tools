@@ -1,4 +1,4 @@
-# Install pyttsx3 if not installed
+# Install pyttsx3 module if not installed
 # pip install pyttsx3
 
 import pyttsx3
